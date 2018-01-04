@@ -1,9 +1,6 @@
 import express from 'express'
 
-import {
-  getAlbums,
-  getAlbumById,
-} from '../actions'
+import { getAlbums, getAlbumById } from '../actions'
 
 const router = express.Router()
 

@@ -67,6 +67,22 @@ Users CANNOT:
 - [ ] __10:__ Sign up without an email address value
 - [ ] __30:__ Sign up without an email that is already in use.
 
+
+
+
+- Create sign-up.ejs
+  + form and submit button
+- create user table in schema
+- create sign-up routes
+  + GET request for page
+  + POST request for form data, redirects to '/'
+- create queries
+  + a find user query
+  + a create user query
+
+
+
+
 ## Sign in
 
 Routing:
